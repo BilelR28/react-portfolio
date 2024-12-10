@@ -1,0 +1,13 @@
+.containerNavbar{
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #EF4444;
+    margin-bottom: 20px;
+}
+.containerLogo{
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
